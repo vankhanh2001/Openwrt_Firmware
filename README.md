@@ -1,2 +1,2 @@
 # Romtonghop
-Xiaomi Pro : passwall 2 , modemmanager
+Tổng hợp các rom mình sưu tầm và làm ra :D
